@@ -12,4 +12,8 @@ defmodule Cards do
     Enum.member?(deck, hand)
   end
 
+  def test(deck) do
+
+  end
+
 end
